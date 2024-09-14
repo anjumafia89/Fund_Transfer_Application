@@ -8,7 +8,7 @@ Allow users to transfer funds between their accounts within the same bank.
 
 Implement different transaction types with varying fees:
 	a. Standard transfer: $2 fee per transaction.
-	b. Express transfer: $5 fee per transaction.
+        b. Express transfer: $5 fee per transaction.
 	c. International transfer: $10 fee per transaction.
 	
 Apply additional fees for expedited transfers based on the transfer amount:
