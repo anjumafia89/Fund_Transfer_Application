@@ -19,9 +19,9 @@ Apply additional fees for expedited transfers based on the transfer amount:
 
 a. For standard transfers:
  
-i. No additional fee for transfers below $1,000.
-ii. 1% fee for transfers of $1,000 or more.
-	
+    i. No additional fee for transfers below $1,000.
+    ii. 1% fee for transfers of $1,000 or more.
+ 	
  b. For express transfers:
 		i. 2% fee for transfers below $1,000.
 		ii. 3% fee for transfers of $1,000 or more.
