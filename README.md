@@ -1,4 +1,4 @@
-# Fund_Transfer_Application
+# Fund_Transfer_Application_Test_Cases
 Fund Transfer Application Using Black Box Testing(BVA)
 
 I used the QASE tool to create test cases and imported CSV files, utilizing Black Box Testing (BVA) to create the test cases. There are 3 suites and 60 test cases.
